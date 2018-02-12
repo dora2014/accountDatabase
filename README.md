@@ -1,4 +1,4 @@
 # accountDatabase
-user register information, and account type
+GUI display - user register information, and account type
 
 main() located in show.java
